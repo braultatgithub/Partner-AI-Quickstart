@@ -1,4 +1,4 @@
-# [INSERT quickstart name here]
+# Partner AI sample use case
 
 *Section is required. NOTE: any italicized or bracketed text should be deleted
 or replaced.*  
